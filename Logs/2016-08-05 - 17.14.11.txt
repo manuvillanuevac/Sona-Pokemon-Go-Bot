@@ -1,0 +1,13 @@
+Initializing Rocket logger @ 05-08-2016 17:14:11...
+[17:14:11] Make sure Lat & Lng is right. Exit Program if not! Lat: 40.758896 Lng: -73.98513
+[17:14:11] Script will continue in 5 seconds!
+[17:14:16] Logging in via: Google
+[17:14:17] BadAuthentication from Pokemon Go Rocket API
+[17:14:17] Got an exception, trying automatic restart..
+[17:14:17] Make sure Lat & Lng is right. Exit Program if not! Lat: 40.758896 Lng: -73.98513
+[17:14:17] Script will continue in 5 seconds!
+[17:14:22] Logging in via: Google
+[17:14:23] BadAuthentication from Pokemon Go Rocket API
+[17:14:23] Got an exception, trying automatic restart..
+[17:14:23] Make sure Lat & Lng is right. Exit Program if not! Lat: 40.758896 Lng: -73.98513
+[17:14:23] Script will continue in 5 seconds!

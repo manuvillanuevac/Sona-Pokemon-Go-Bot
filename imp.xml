@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ImpSettingsXml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AuthType>Google</AuthType> <!-- Google/Ptc -->
+  <Google Api> </Google Api>
+  <Oauth Key> </Oauth Key>
+  <Decryption Key> </Decryption Key>
+</ImpSettingsXml>

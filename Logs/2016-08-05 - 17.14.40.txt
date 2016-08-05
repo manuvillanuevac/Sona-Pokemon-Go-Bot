@@ -1,0 +1,93 @@
+Initializing Rocket logger @ 05-08-2016 17:14:40...
+[17:14:41] Make sure Lat & Lng is right. Exit Program if not! Lat: 40.758896 Lng: -73.98513
+[17:14:41] Script will continue in 5 seconds!
+[17:14:46] Logging in via: Google
+[17:14:47] Refreshtoken eyJhbGciOiJSUzI1NiIsImtpZCI6IjBmMmY1ZTMxNjE0YmIxYTc4ZjkxNTYxZWIxMmE0M2I5ZjUwNTQ2NDMifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXVkIjoiODQ4MjMyNTExMjQwLTdzbzQyMWpvdHIyNjA5cm1xYWtjZXV1MWx1dXEwcHRiLmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTExOTMzNTYzMjgwODMzMjAzMzE4IiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImF6cCI6Ijg0ODIzMjUxMTI0MC0zdmRydHJmZG50bGpmMnU0bWxndG5ubGhuaWduMzVkNS5hcHBzLmdvb2dsZXVzZXJjb250ZW50LmNvbSIsImhkIjoic2ltdGVjaG5vcy5pbiIsImVtYWlsIjoiaW5mb0BzaW10ZWNobm9zLmluIiwiaWF0IjoxNDcwMzk3NDgxLCJleHAiOjE0NzA0MDEwODEsIm5hbWUiOiJBZGl0eWEgQmhpbXJhamthIiwicGljdHVyZSI6Imh0dHBzOi8vbGg0Lmdvb2dsZXVzZXJjb250ZW50LmNvbS8tejhtOEtGZmJSSlUvQUFBQUFBQUFBQUkvQUFBQUFBQUFCMm8vcHdDQU5PQXpIeDQvczk2LWMvcGhvdG8uanBnIiwiZ2l2ZW5fbmFtZSI6IkFkaXR5YSIsImZhbWlseV9uYW1lIjoiQmhpbXJhamthIn0.QNhcc-pw_HHC_PJuLwjPJP-tH1qEir456ruDuDx15x7LuYcOipGlr2c9oZyfafnXwz7JBuzHgUD4tXhj4YKf4Wl5jCxwLMhD6Z6hfe-F4V7nzHDMNJIJoARs5i5c4Jtc1d31b7tENHNBlDPF7hU4JhB_4gJ9pGporT57KNbMd0FLlQBCRlnI_09qpElvP495IEzejSjSOkLecQ2ieXTOP_U0gnyRnqq0oeMwpAB2MlAKT3AlOSzTNVaJ6yXk39PhbNa2qoy8cDUg-UeDJcg1Q_SUIXlXLA9FdzAnW_ygcooYP48f4IP_7xFzTOA7EIPya3FM8cbyZgBWANhqrSlY4Q saved
+[17:14:50] Client logged in
+[17:14:51] ----------------------------
+[17:14:51] Latitude: 40.758896
+[17:14:51] Longitude: -73.98513
+[17:14:51] ----------------------------
+[17:14:51] Your Account:
+
+[17:14:51] Name: Simtechnos
+[17:14:51] Team: Yellow
+[17:14:51] Level: 31 (LvLUp in ∞hours | 465230/500000 XP)
+[17:14:51] Stardust: 2230
+[17:14:51] ----------------------------
+[17:14:51] ====== DisplayHighestsCP ======
+[17:14:51] # CP 3005/3100 | (75.37% perfect)	| Lvl 32	 NAME: 'Dragonite'
+[17:14:51] # CP 2724/2779 | (85.04% perfect)	| Lvl 32.5	 NAME: 'Snorlax'
+[17:14:51] # CP 2619/2690 | (80.04% perfect)	| Lvl 35	 NAME: 'Snorlax'
+[17:14:51] # CP 2601/2664 | (82.44% perfect)	| Lvl 32.5	 NAME: 'Arcanine'
+[17:14:51] # CP 2573/2668 | (73.27% perfect)	| Lvl 30	 NAME: 'Snorlax'
+[17:14:51] ====== DisplayHighestsPerfect ======
+[17:14:51] # CP 1630/1635 | (98.20% perfect)	| Lvl 28	 NAME: 'Seaking'
+[17:14:51] # CP 1765/1770 | (98.02% perfect)	| Lvl 22	 NAME: 'Vaporeon'
+[17:14:51] # CP 1216/1222 | (97.01% perfect)	| Lvl 26	 NAME: 'Electrode'
+[17:14:51] # CP  996/1001 | (96.99% perfect)	| Lvl 19	 NAME: 'Tauros'
+[17:14:51] # CP 1846/1864 | (93.87% perfect)	| Lvl 29	 NAME: 'Weezing'
+[17:14:51] ----------------------------
+[17:14:54] Export all Pokemon to \Export\PokeList.csv
+[17:14:55] Found 0 pokestops
+[17:14:55] Visited all Pokestops in the area, will now walk back to the start and repeat from there. Distance to start: 0m.
+[17:14:55] Distance to target location: 0 meters. Will take 0 seconds!
+[17:14:55] We are within 40 meters of the target. Speeding down to 10 km/h to not pass the target.
+[17:15:07] ----------------------------
+[17:15:07] Latitude: 40.758896
+[17:15:07] Longitude: -73.98513
+[17:15:07] ----------------------------
+[17:15:07] Your Account:
+
+[17:15:07] Name: Simtechnos
+[17:15:07] Team: Yellow
+[17:15:07] Level: 31 (LvLUp in ∞hours | 465230/500000 XP)
+[17:15:07] Stardust: 2230
+[17:15:07] ----------------------------
+[17:15:07] ====== DisplayHighestsCP ======
+[17:15:07] # CP 3005/3100 | (75.37% perfect)	| Lvl 32	 NAME: 'Dragonite'
+[17:15:07] # CP 2724/2779 | (85.04% perfect)	| Lvl 32.5	 NAME: 'Snorlax'
+[17:15:07] # CP 2619/2690 | (80.04% perfect)	| Lvl 35	 NAME: 'Snorlax'
+[17:15:07] # CP 2601/2664 | (82.44% perfect)	| Lvl 32.5	 NAME: 'Arcanine'
+[17:15:07] # CP 2573/2668 | (73.27% perfect)	| Lvl 30	 NAME: 'Snorlax'
+[17:15:07] ====== DisplayHighestsPerfect ======
+[17:15:07] # CP 1630/1635 | (98.20% perfect)	| Lvl 28	 NAME: 'Seaking'
+[17:15:07] # CP 1765/1770 | (98.02% perfect)	| Lvl 22	 NAME: 'Vaporeon'
+[17:15:07] # CP 1216/1222 | (97.01% perfect)	| Lvl 26	 NAME: 'Electrode'
+[17:15:07] # CP  996/1001 | (96.99% perfect)	| Lvl 19	 NAME: 'Tauros'
+[17:15:07] # CP 1846/1864 | (93.87% perfect)	| Lvl 29	 NAME: 'Weezing'
+[17:15:07] ----------------------------
+[17:15:09] Export all Pokemon to \Export\PokeList.csv
+[17:15:09] Found 0 pokestops
+[17:15:09] Visited all Pokestops in the area, will now walk back to the start and repeat from there. Distance to start: 12.67m.
+[17:15:09] Distance to target location: 12.67 meters. Will take 0.91 seconds!
+[17:15:10] We are within 40 meters of the target. Speeding down to 10 km/h to not pass the target.
+[17:15:22] ----------------------------
+[17:15:22] Latitude: 40.758896
+[17:15:22] Longitude: -73.98513
+[17:15:22] ----------------------------
+[17:15:22] Your Account:
+
+[17:15:22] Name: Simtechnos
+[17:15:22] Team: Yellow
+[17:15:22] Level: 31 (LvLUp in ∞hours | 465230/500000 XP)
+[17:15:22] Stardust: 2230
+[17:15:22] ----------------------------
+[17:15:22] ====== DisplayHighestsCP ======
+[17:15:22] # CP 3005/3100 | (75.37% perfect)	| Lvl 32	 NAME: 'Dragonite'
+[17:15:22] # CP 2724/2779 | (85.04% perfect)	| Lvl 32.5	 NAME: 'Snorlax'
+[17:15:22] # CP 2619/2690 | (80.04% perfect)	| Lvl 35	 NAME: 'Snorlax'
+[17:15:22] # CP 2601/2664 | (82.44% perfect)	| Lvl 32.5	 NAME: 'Arcanine'
+[17:15:22] # CP 2573/2668 | (73.27% perfect)	| Lvl 30	 NAME: 'Snorlax'
+[17:15:22] ====== DisplayHighestsPerfect ======
+[17:15:22] # CP 1630/1635 | (98.20% perfect)	| Lvl 28	 NAME: 'Seaking'
+[17:15:22] # CP 1765/1770 | (98.02% perfect)	| Lvl 22	 NAME: 'Vaporeon'
+[17:15:22] # CP 1216/1222 | (97.01% perfect)	| Lvl 26	 NAME: 'Electrode'
+[17:15:22] # CP  996/1001 | (96.99% perfect)	| Lvl 19	 NAME: 'Tauros'
+[17:15:22] # CP 1846/1864 | (93.87% perfect)	| Lvl 29	 NAME: 'Weezing'
+[17:15:22] ----------------------------
+[17:15:24] Export all Pokemon to \Export\PokeList.csv
+[17:15:24] Found 0 pokestops
+[17:15:24] Visited all Pokestops in the area, will now walk back to the start and repeat from there. Distance to start: 0m.
+[17:15:24] Distance to target location: 0 meters. Will take 0 seconds!
+[17:15:25] We are within 40 meters of the target. Speeding down to 10 km/h to not pass the target.
