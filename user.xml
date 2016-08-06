@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-16"?>
 <UserSettingsXml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <AuthType>Google</AuthType> <!-- Google/Ptc -->
-  <DefaultLatitude>40.758896</DefaultLatitude> <!-- Default Amsterdam Central Station -->
-  <DefaultLongitude>-73.985130</DefaultLongitude> <!-- Default Amsterdam Central Station -->
+  <DefaultLatitude>33.168586</DefaultLatitude> <!-- Default Amsterdam Central Station -->
+  <DefaultLongitude>-96.713044</DefaultLongitude> <!-- Default Amsterdam Central Station -->
   <DefaultAltitude>10</DefaultAltitude>
   <PtcPassword>pw</PtcPassword>
   <PtcUsername>username</PtcUsername>
@@ -10,7 +10,7 @@
   <GooglePassword>password</GooglePassword>
   <KeepMinIVPercentage>85</KeepMinIVPercentage>
   <KeepMinCP>1000</KeepMinCP>
-  <WalkingSpeedInKilometerPerHour>50</WalkingSpeedInKilometerPerHour>
+  <WalkingSpeedInKilometerPerHour>15</WalkingSpeedInKilometerPerHour>
   <TransferDuplicatePokemon>true</TransferDuplicatePokemon>
   <KeepMinDuplicatePokemon>1</KeepMinDuplicatePokemon>
   <PrioritizeIVOverCP>true</PrioritizeIVOverCP>
